@@ -58,12 +58,3 @@ This project focuses on analyzing social media data using Tableau. The goal is t
 1. Fork the repository.
 2. Create a new branch for your feature or fix.
 3. Submit a pull request describing your changes.
-
-## Contact Information
-For inquiries or suggestions, contact:
-- **Name**: Diya0451  
-- **Email**: diya0451@example.com  
-
----
-
-**Note**: Ensure to update the contact information as necessary.
